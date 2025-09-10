@@ -1,6 +1,6 @@
 # 📄 Rescume: Modular Resume Builder Engine
 
-**Rescume** is a scalable, backend-driven resume builder designed to help users generate professional, customizable resumes with real-time formatting, dynamic content blocks, and automated scoring logic.
+**Rescume** is a scalable, backend-driven ATS resume generator designed to help users generate professional, customizable resumes with real-time formatting, dynamic content blocks, and automated scoring logic.
 
 Built for job seekers, educators, and career platforms, Rescume empowers users to create resumes that adapt to industry standards and personal branding goals.
 
@@ -45,8 +45,7 @@ Built for job seekers, educators, and career platforms, Rescume empowers users t
 ## 📌 Roadmap Ideas
 
 - 🔐 User authentication and profile management  
-- 🧠 AI-powered resume suggestions and keyword optimization  
-- 🌐 Multi-language support and international templates  
+- 🧠 AI-powered resume suggestions and keyword optimization    
 - 📬 Integration with LinkedIn and job boards
 
 ---
@@ -57,9 +56,13 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ---
 
-## 📜 License
+## 👤 Author
 
-This project is licensed under the MIT License.
+**Nitesh Diahnan**  
+AI Engineer | ML Architect | Data Visionary  
+🌍 [niteshresume.com](https://dat10101010101010101010.on.drv.tw/www.niteshresume.com/Index.html)  
+🔗 [LinkedIn](https://linkedin.com/in/niteshdiahnan13)  
+📧 niteshdiahnan13@gmail.com
 
 ---
 
